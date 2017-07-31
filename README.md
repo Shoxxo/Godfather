@@ -8,6 +8,10 @@ Features
 
 "Dynamic" means it can be altered within the game by Game Admins (so without touching code.)
 
+### [v1.8]
+Fixxed Webserver (Added the useUrls) Tanks to [Bitdevil2016](https://forum.gtanet.work/index.php?threads/problem-mit-godfather-webserver.4267/#post-18481)
+Fixxed wrong vehicle controller : [Patch can be found here](https://github.com/kushovu/godfather/commit/8797bddfd9bb64fad7e5f8c020d79b15339d08be)
+Added the database data that was completly removed.
 
 ### [v1.7]
 Added WebRTC voice chat.
