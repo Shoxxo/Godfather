@@ -1,6 +1,6 @@
-﻿<meta>
-
-  <info name="The Godfather GM" author="Jingles" type="gamemode"/>
+﻿<?xml version="1.0"?>
+<meta>
+  <info name="The Godfather GM" author="Jingles" type="gamemode" async="true" />
   <script src="bin/Debug/The Godfather GM.dll" type="server" lang="compiled" />
   
   <settings>
